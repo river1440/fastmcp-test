@@ -8,3 +8,40 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Coverage reports
+.coverage
+.coverage.*
+
+# Pytest cache
+.pytest_cache/
+
+# PyCharm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Local configuration files
+*.local
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+
+# Backup files
+*~
+
+# Python bytecode files
+*.pyc
